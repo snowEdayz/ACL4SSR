@@ -1,6 +1,8 @@
 #Genshin Impact
 DST-PORT,22101-22102
 PROCESS-NAME,GenshinImpact.exe
+
 #Star Rail
 DST-PORT,23301
 DOMAIN,tqos-yun.anticheatexpert.com
+PROCESS-NAME,StarRail.exe
