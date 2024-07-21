@@ -1,6 +1,10 @@
 # 直连列表
 
+# 卡巴斯基的中国地区激活
 DOMAIN,china.simulate.activation-v2.kaspersky.com
+#有的时候连接异常？
+# DOMAIN-SUFFIX,msftconnecttest.com
+# DOMAIN-SUFFIX,msftncsi.com
 
 # MyList
 DOMAIN-SUFFIX,13th.tech
@@ -12,8 +16,7 @@ DOMAIN-SUFFIX,hrtsea.com
 DOMAIN-SUFFIX,kaikeba.com
 DOMAIN-SUFFIX,laomo.me
 DOMAIN-SUFFIX,mpyit.com
-# DOMAIN-SUFFIX,msftconnecttest.com
-# DOMAIN-SUFFIX,msftncsi.com
+
 DOMAIN-SUFFIX,qupu123.com
 DOMAIN-SUFFIX,pdfwifi.com
 DOMAIN-SUFFIX,zhenguanyu.biz
