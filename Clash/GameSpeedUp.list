@@ -13,3 +13,4 @@ PROCESS-NAME,com.supercell.brawlstars
 # gemini api
 DOMAIN,aistudio.google.com
 DOMAIN,alkalimakersuite-pa.clients6.google.com
+DOMAIN,generativelanguage.googleapis.com
