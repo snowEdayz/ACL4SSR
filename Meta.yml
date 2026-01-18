@@ -1,5 +1,5 @@
 profile:
-  store-selected: false
+  store-selected: true
 
 geox-url:
   geoip: "https://fastly.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@release/geoip.dat"
@@ -17,5 +17,3 @@ dns:
   proxy-server-nameserver:
     - https://doh.pub/dns-query
     - https://dns.alidns.com/dns-query
-  direct-nameserver:
-    - system
