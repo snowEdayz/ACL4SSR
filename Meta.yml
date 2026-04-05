@@ -15,12 +15,8 @@ dns:
   enhanced-mode: fake-ip
   fake-ip-range: 198.18.0.1/16
   fake-ip-filter-mode: rule
-  fake-ip-filter:
-    - '*.lan'
-    - localhost.ptlogin2.qq.com
-    - weatherapi.market.xiaomi.com
-    - '+.googleapis.cn'
-    - GEOSITE,gfw,fake-ip
-    - RULE-SET,proxy-domain,fake-ip
+    fake-ip-filter:
+    - DOMAIN-SUFFIX,googleapis.cn,real-ip
     - GEOSITE,cn,real-ip
+    - GEOSITE,gfw,fake-ip
     - MATCH,fake-ip
