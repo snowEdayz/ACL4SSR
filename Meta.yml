@@ -15,7 +15,7 @@ dns:
   enhanced-mode: fake-ip
   fake-ip-range: 198.18.0.1/16
   fake-ip-filter-mode: rule
-    fake-ip-filter:
+  fake-ip-filter:
     - DOMAIN-SUFFIX,googleapis.cn,real-ip
     - GEOSITE,cn,real-ip
     - GEOSITE,gfw,fake-ip
