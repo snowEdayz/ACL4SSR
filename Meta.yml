@@ -20,6 +20,3 @@ dns:
     - GEOSITE,cn,real-ip
     - GEOSITE,gfw,fake-ip
     - MATCH,fake-ip
-
-tcp-concurrent: false
-log-level: debug
