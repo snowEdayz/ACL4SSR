@@ -9,6 +9,9 @@ geox-url:
 
 ipv6: false
 
+keep-alive-interval: 15
+keep-alive-idle: 15
+
 dns:
   enable: true
   respect-rules: false
